@@ -23,12 +23,12 @@ This code runs on the command line interface, you would need to have python3 ins
 1. Open a command line bash/terminal
 
 2. Choose a directory 
-  pwd -to check the present working directory
-  cd Desktop - to change directory to desktop
+  `pwd` -to check the present working directory
+  `cd Desktop` - to change directory to desktop
   
 3. `git clone https://github.com/GOhaike/bank-atm-Interface.git`
    Wait till you see the folder on your desktop
    
-4. Change directory to the path eg cd Desktop/bank-atm-Interface
+4. Change directory to the path eg `cd Desktop/bank-atm-Interface`
     type ls to see the file contents
 5. Type - `python3 bank_atm_interface.py` to run the code.
